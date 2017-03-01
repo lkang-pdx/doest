@@ -1,10 +1,10 @@
-import { TadaAngular2Page } from './app.po';
+import { doestPage } from './app.po';
 
-describe('tada-angular2 App', function() {
-  let page: TadaAngular2Page;
+describe('doest App', function() {
+  let page: doestPage;
 
   beforeEach(() => {
-    page = new TadaAngular2Page();
+    page = new doestPage();
   });
 
   it('should display message saying app works', () => {

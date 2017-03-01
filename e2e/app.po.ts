@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class TadaAngular2Page {
+export class doestPage {
   navigateTo() {
     return browser.get('/');
   }
